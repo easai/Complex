@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	Complex c=new Complex(1,1);
         assertTrue( true );
     }
 }
