@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<project basedir="." default="jar" name="DBAdmin">
+<project basedir="." default="jar" name="Complex">
 	<target name="jar" depends="build">
 		<jar jarfile="deps.jar">
 			<zipgroupfileset dir="lib">
@@ -9,9 +9,9 @@
 		</jar>
 		<sleep seconds="1" />
 
-		<jar jarfile="DBAdminFrame.jar" basedir="bin">
+		<jar jarfile="Complex.jar" basedir="bin">
 			<manifest>
-				<attribute name="Main-Class" value="Complex" />
+				<attribute name="Main-Class" value="easai.math.Complex.Complex" />
 			</manifest>
 			<zipfileset src="deps.jar" excludes="META-INF/*.SF" />
 		</jar>
