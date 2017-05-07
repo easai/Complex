@@ -1,5 +1,6 @@
-package easai.math.Complex;
+package easai.math;
 
+import easai.math.Complex;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

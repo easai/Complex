@@ -33,7 +33,7 @@
 
 //Code:
 
-package easai.math.Complex;
+package easai.math;
 
 /**
 * The <tt>Complex</tt> class represents a complex number class.   
