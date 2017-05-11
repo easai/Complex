@@ -17,7 +17,7 @@
 
 		<jar jarfile="Complex.jar" basedir="${dest.dir}">
 			<manifest>
-				<attribute name="Main-Class" value="easai.math.Complex" />
+				<attribute name="Main-Class" value="is.easai.math.Complex" />
 			</manifest>
 			<zipfileset src="deps.jar" excludes="META-INF/*.SF" />
 		</jar>
