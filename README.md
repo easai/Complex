@@ -1,5 +1,5 @@
 # Complex
-A complex number class.
+Complex is an implementation of a complex number class with complex trigonometry and exponential functions.
 
 The complex trigonometry functions can be defined using Euler's formula as follows:
 <img src="files/Euler.png" /><br />
