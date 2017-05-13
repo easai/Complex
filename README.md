@@ -17,3 +17,5 @@ If you are using Maven, specify this library in your pom.xml file.
     </dependency>
   </dependencies>
 ```
+## Complex API
+The API documentation is here (<a href="https://cdn.rawgit.com/easai/Complex/0eb79896/doc/index.html">Complex API</a>)
