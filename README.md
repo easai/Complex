@@ -21,5 +21,6 @@ If you are using Maven, specify this library in your pom.xml file.
 The API documentation is here (<a href="https://cdn.rawgit.com/easai/Complex/0eb79896/doc/index.html">Complex API</a>)
 
 ## Application
-<a href="https://github.com/easai/Mandelbrot">Mandelbrot</a> is an Java app that uses Complex library.<br />
-<img src="https://raw.githubusercontent.com/easai/Mandelbrot/master/screenshot.png" />
+<a href="https://github.com/easai/Mandelbrot">Mandelbrot</a> is an Java app that uses Complex library.
+
+<img src="https://raw.githubusercontent.com/easai/Mandelbrot/master/screenshot.png" width="100"/>
