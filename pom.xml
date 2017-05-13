@@ -3,8 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.easai.math</groupId>
 	<artifactId>Complex</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Complex</name>
+	<url>https://github.com/easai/Complex</url>
+	<description>An implementation of a complex number class with complex trigonometry and exponential functions.</description>
     <licenses>
         <license>
             <name>Apache License 2.0</name>
@@ -86,6 +88,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.0</version>
 				<configuration>
 					<archive>
 						<manifest>
